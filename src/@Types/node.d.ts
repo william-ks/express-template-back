@@ -1,5 +1,5 @@
 declare global {
-  interface Error {
-    code?: number;
-  }
+	interface Error {
+		code?: number;
+	}
 }
